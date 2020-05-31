@@ -1,20 +1,20 @@
 {
-    "name": "macsidigital/laravel-zoom",
+    "name": "wallacemyem/laravel-zoom",
     "description": "Laravel Zoom package",
-    "homepage": "https://github.com/MacsiDigital/laravel-zoom",
-    "keywords": ["macsidigital", "laravel-zoom", "zoom", "laravel", "api", "client"],
+    "homepage": "https://github.com/wallacemyem/laravel-zoom",
+    "keywords": ["wallacemyem", "laravel-zoom", "zoom", "laravel", "api", "client"],
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Colin Hall",
-            "email": "colin@macsi.co.uk",
+            "name": "Wallace Myem",
+            "email": "wallace@brickng.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^7.2.5",
-        "illuminate/support": "^7.0",
+        "illuminate/support": "^6.0|^7.0",
         "macsidigital/laravel-api-client": "^3.0"
     },
     "require-dev": {
