@@ -1,6 +1,6 @@
 # Laravel package for Zoom API
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/macsidigital/laravel-zoom.svg?style=flat-square)](https://packagist.org/packages/wallacemyem/laravel-zoom)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/wallacemyem/laravel-zoom.svg?style=flat-square)](https://packagist.org/packages/wallacemyem/laravel-zoom)
 [![Build Status](https://img.shields.io/travis/macsidigital/laravel-zoom/master.svg?style=flat-square)](https://travis-ci.org/MacsiDigital/laravel-zoom)
 [![StyleCI](https://github.styleci.io/repos/193588988/shield?branch=master)](https://github.styleci.io/repos/193588988)
 [![Total Downloads](https://img.shields.io/packagist/dt/macsidigital/laravel-zoom.svg?style=flat-square)](https://packagist.org/packages/macsidigital/laravel-zoom)
